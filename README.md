@@ -1,6 +1,6 @@
 # Song Genre Prediction Model Data Mining Project
 
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12550/badge?v=1)](https://www.bestpractices.dev/projects/12550) , [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/jramos4024/Song-Genre-Prediction-Data-Mining-Project/badge)](https://api.securityscorecards.dev/projects/github.com/jramos4024/Song-Genre-Prediction-Data-Mining-Project)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12550/badge)](https://www.bestpractices.dev/projects/12550) , [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/jramos4024/Song-Genre-Prediction-Data-Mining-Project/badge)](https://api.securityscorecards.dev/projects/github.com/jramos4024/Song-Genre-Prediction-Data-Mining-Project)
 
 Authors: Joe Ramos, George Alenchery, Vivian Procacci
 
