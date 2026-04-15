@@ -1,4 +1,7 @@
 # Song Genre Prediction Model Data Mining Project
+
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12550/badge)](https://www.bestpractices.dev/projects/12550)
+
 Authors: Joe Ramos, George Alenchery, Vivian Procacci
 
 Description: This project was developed as part of my Knowledge Discovery & Data mining course. The focus was on using pandas to train and evaluate classification models that could predict the genre of a song based on a set of over 10+ different audio and metadata features and attributes. The size of the dataset was over 100,000 songs and over 110 different genres. Due to the size and complexity of the dataset, baseline models achieved limited accuracy, which was expected and analyzed as part of the learning process.
