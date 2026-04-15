@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "" # See documentation for possible values
-    directory: "https://github.com/jramos4024/Song-Genre-Prediction-Data-Mining-Project/tree/main/.github/workflows" # Location of package manifests
+  - package-ecosystem: "github-actions" # See documentation for possible values
+    directory: "https://github.com/jramos4024/Song-Genre-Prediction-Data-Mining-Project/tree/main/.github" # Location of package manifests
     schedule:
       interval: "weekly"
